@@ -13,7 +13,11 @@ O resultado final é baseado em cada item do crud:.
 - CSS
 
 ## Funcionamento da Página 
+- Página inicial 
 ![crud page](CrudPages/Page1.png)
+
+- Posibilidade de pesquisar o contato
+![crud page](CrudPages/Page2.png)
 
 
 
